@@ -1,0 +1,1 @@
+ALTER TABLE user ADD buy_in int;

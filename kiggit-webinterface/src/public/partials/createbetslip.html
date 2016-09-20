@@ -1,0 +1,32 @@
+<h1>{{title}}</h1>
+<br>
+<div class="check-element animate-show" ng-hide="Logedin">
+            <h3>Access denied.</h3>
+</div>
+<div class="check-element animate-show" ng-show="Logedin">
+    <form role="form" name="kiggitBetslipForm" novalidate ng-submit="submit()">
+        <div class="form-group col-md-6 check-element animate-show">
+            <label for="betsize" class="control-label">Select betsize:</label>
+            <input name="betsize" type="number" class="form-control ng-valid ng-not-empty ng-dirty ng-valid-number ng-touched" ng-model="betsize" style="">
+
+            <label for="matches" class="control-label">Select matches:</label>
+            <select name="matches" class="form-control"multiple id="matches" size=15 ng-model="selectedMatches" 
+            ng-options="match as (match.scheduled_start 
+            + ' ' + match.tournament_name + ' ' + match.name) for match in matches">
+            </select>
+            <h4>Sellect the betting type for each match. Both result and outcome can be selected for each match</h4>
+            <ul class="list-group">
+                <li ng-repeat="match in selectedMatches" class="list-group-item">
+                    <span text-align="right">
+                        <label class="btn btn-success" ng-model="match.bettype.result" uib-btn-checkbox  ="'result'">Result</label>  
+                        <label class="btn btn-success" ng-model="match.bettype.outcome"   uib-btn-checkbox="'outcome'">Outcome</label>
+                    </span>
+                    {{match.scheduled_start_day | date}}
+                    {{match.tournament_name}}
+                    {{match.home}}
+                    {{match.away}}
+                </li>
+            </ul>
+            <button type="submit" class="btn btn-sucess" ng-click="create()">Create</button>
+    </form>
+</div>

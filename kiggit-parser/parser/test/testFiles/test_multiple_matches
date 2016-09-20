@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BetradarBetData>
+    <Timestamp CreatedTime="2016-03-18T15:30:41" TimeZone="Europe/Oslo"/>
+    <Sports>
+        <Sport BetradarSportID="1">
+            <Texts>
+                <Text Language="BET">
+                    <Value>Soccer</Value>
+                </Text>
+                <Text Language="en">
+                    <Value>Soccer</Value>
+                </Text>
+            </Texts>
+            <Category BetradarCategoryID="14">
+                <Texts>
+                    <Text Language="BET">
+                        <Value>Croatia</Value>
+                    </Text>
+                    <Text Language="en">
+                        <Value>Croatia</Value>
+                    </Text>
+                </Texts>
+                <Tournament BetradarTournamentID="38">
+                    <Texts>
+                        <Text Language="BET">
+                            <Value>2. HNL</Value>
+                        </Text>
+                        <Text Language="en">
+                            <Value>2. HNL</Value>
+                        </Text>
+                    </Texts>
+                    <Match BetradarMatchID="9116277">
+                        <Fixture>
+                            <Competitors>
+                                <Texts>
+                                    <Text ID="5181577" SUPERID="35226" Type="1">
+                                        <Text Language="BET">
+                                            <Value>NK Rudes</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>NK Rudes</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                                <Texts>
+                                    <Text ID="6592700" SUPERID="2031" Type="2">
+                                        <Text Language="BET">
+                                            <Value>HNK Cibalia Vinkovci</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>HNK Cibalia-Vinkovci</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                            </Competitors>
+                            <DateInfo>
+                                <MatchDate>2016-04-17T16:30:00</MatchDate>
+                            </DateInfo>
+                            <StatusInfo>
+                                <Off>0</Off>
+                            </StatusInfo>
+                            <NeutralGround>0</NeutralGround>
+                            <RoundInfo>
+                                <Round>28</Round>
+                            </RoundInfo>
+                        </Fixture>
+                    </Match>
+                </Tournament>
+            </Category>
+            <Category BetradarCategoryID="18">
+                <Texts>
+                    <Text Language="BET">
+                        <Value>Czech Republic</Value>
+                    </Text>
+                    <Text Language="en">
+                        <Value>Czech Republic</Value>
+                    </Text>
+                </Texts>
+                <Tournament BetradarTournamentID="38">
+                    <Texts>
+                        <Text Language="BET">
+                            <Value>U21</Value>
+                        </Text>
+                        <Text Language="en">
+                            <Value>U21</Value>
+                        </Text>
+                    </Texts>
+                    <Match BetradarMatchID="8402576">
+                        <Fixture>
+                            <Competitors>
+                                <Texts>
+                                    <Text ID="6338927" SUPERID="105809" Type="1">
+                                        <Text Language="BET">
+                                            <Value>FC Zbrojovka Brno</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>FC Zbrojovka Brno</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                                <Texts>
+                                    <Text ID="6336680" SUPERID="105805" Type="2">
+                                        <Text Language="BET">
+                                            <Value>FC Viktoria Plzen</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>FC Viktoria Plzen</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                            </Competitors>
+                            <DateInfo>
+                                <MatchDate>2016-04-17T16:30:00</MatchDate>
+                            </DateInfo>
+                            <StatusInfo>
+                                <Off>0</Off>
+                            </StatusInfo>
+                            <NeutralGround>0</NeutralGround>
+                            <RoundInfo>
+                                <Round>28</Round>
+                            </RoundInfo>
+                        </Fixture>
+                    </Match>
+                    <Match BetradarMatchID="8402582">
+                        <Fixture>
+                            <Competitors>
+                                <Texts>
+                                    <Text ID="6336684" SUPERID="105807" Type="1">
+                                        <Text Language="BET">
+                                            <Value>FC Vysocina Jihlava</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>FC Vysocina Jihlava</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                                <Texts>
+                                    <Text ID="6703923" SUPERID="105827" Type="2">
+                                        <Text Language="BET">
+                                            <Value>1 SC Znojmo</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>1. SC Znojmo</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                            </Competitors>
+                            <DateInfo>
+                                <MatchDate>2016-04-17T16:30:00</MatchDate>
+                            </DateInfo>
+                            <StatusInfo>
+                                <Off>0</Off>
+                            </StatusInfo>
+                            <NeutralGround>0</NeutralGround>
+                            <RoundInfo>
+                                <Round>28</Round>
+                            </RoundInfo>
+                        </Fixture>
+                    </Match>
+                    <Match BetradarMatchID="8402572">
+                        <Fixture>
+                            <Competitors>
+                                <Texts>
+                                    <Text ID="6703927" SUPERID="105813" Type="1">
+                                        <Text Language="BET">
+                                            <Value>FK Fotbal Trinec</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>FK Fotbal Trinec</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                                <Texts>
+                                    <Text ID="6351560" SUPERID="105821" Type="2">
+                                        <Text Language="BET">
+                                            <Value>FK Teplice</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>FK Teplice</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                            </Competitors>
+                            <DateInfo>
+                                <MatchDate>2016-04-17T16:30:00</MatchDate>
+                            </DateInfo>
+                            <StatusInfo>
+                                <Off>0</Off>
+                            </StatusInfo>
+                            <NeutralGround>0</NeutralGround>
+                            <RoundInfo>
+                                <Round>28</Round>
+                            </RoundInfo>
+                        </Fixture>
+                    </Match>
+                    <Match BetradarMatchID="8402578">
+                        <Fixture>
+                            <Competitors>
+                                <Texts>
+                                    <Text ID="6336683" SUPERID="105831" Type="1">
+                                        <Text Language="BET">
+                                            <Value>SK Slavia Praha</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>Slavia Praha</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                                <Texts>
+                                    <Text ID="6338926" SUPERID="164598" Type="2">
+                                        <Text Language="BET">
+                                            <Value>Ceske Budejovice</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>Ceske Budejovice</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                            </Competitors>
+                            <DateInfo>
+                                <MatchDate>2016-04-17T16:30:00</MatchDate>
+                            </DateInfo>
+                            <StatusInfo>
+                                <Off>0</Off>
+                            </StatusInfo>
+                            <NeutralGround>0</NeutralGround>
+                            <RoundInfo>
+                                <Round>28</Round>
+                            </RoundInfo>
+                        </Fixture>
+                    </Match>
+                    <Match BetradarMatchID="8402568">
+                        <Fixture>
+                            <Competitors>
+                                <Texts>
+                                    <Text ID="6336677" SUPERID="105811" Type="1">
+                                        <Text Language="BET">
+                                            <Value>FK Baumit Jablonec</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>FK Baumit Jablonec</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                                <Texts>
+                                    <Text ID="6336681" SUPERID="105791" Type="2">
+                                        <Text Language="BET">
+                                            <Value>1 FK Pribram</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>1. FK Pribram</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                            </Competitors>
+                            <DateInfo>
+                                <MatchDate>2016-04-17T16:30:00</MatchDate>
+                            </DateInfo>
+                            <StatusInfo>
+                                <Off>0</Off>
+                            </StatusInfo>
+                            <NeutralGround>0</NeutralGround>
+                            <RoundInfo>
+                                <Round>28</Round>
+                            </RoundInfo>
+                        </Fixture>
+                    </Match>
+                    <Match BetradarMatchID="8402574">
+                        <Fixture>
+                            <Competitors>
+                                <Texts>
+                                    <Text ID="6336682" SUPERID="105797" Type="1">
+                                        <Text Language="BET">
+                                            <Value>AC Sparta Praha</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>AC Sparta Prague</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                                <Texts>
+                                    <Text ID="6340937" SUPERID="105803" Type="2">
+                                        <Text Language="BET">
+                                            <Value>FC Slovan Liberec</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>FC Slovan Liberec</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                            </Competitors>
+                            <DateInfo>
+                                <MatchDate>2016-04-17T16:30:00</MatchDate>
+                            </DateInfo>
+                            <StatusInfo>
+                                <Off>0</Off>
+                            </StatusInfo>
+                            <NeutralGround>0</NeutralGround>
+                            <RoundInfo>
+                                <Round>28</Round>
+                            </RoundInfo>
+                        </Fixture>
+                    </Match>
+                    <Match BetradarMatchID="8402580">
+                        <Fixture>
+                            <Competitors>
+                                <Texts>
+                                    <Text ID="6336686" SUPERID="105799" Type="1">
+                                        <Text Language="BET">
+                                            <Value>FC Banik Ostrava</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>FC Banik Ostrava</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                                <Texts>
+                                    <Text ID="6348733" SUPERID="105793" Type="2">
+                                        <Text Language="BET">
+                                            <Value>Bohemians 1905</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>Bohemians 1905</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                            </Competitors>
+                            <DateInfo>
+                                <MatchDate>2016-04-17T16:30:00</MatchDate>
+                            </DateInfo>
+                            <StatusInfo>
+                                <Off>0</Off>
+                            </StatusInfo>
+                            <NeutralGround>0</NeutralGround>
+                            <RoundInfo>
+                                <Round>28</Round>
+                            </RoundInfo>
+                        </Fixture>
+                    </Match>
+                    <Match BetradarMatchID="8402570">
+                        <Fixture>
+                            <Competitors>
+                                <Texts>
+                                    <Text ID="6340935" SUPERID="105801" Type="1">
+                                        <Text Language="BET">
+                                            <Value>FC Hradec Kralove</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>FC Hradec Kralove</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                                <Texts>
+                                    <Text ID="6340934" SUPERID="105795" Type="2">
+                                        <Text Language="BET">
+                                            <Value>Dukla Praha</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>Dukla Prague</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                            </Competitors>
+                            <DateInfo>
+                                <MatchDate>2016-04-17T16:30:00</MatchDate>
+                            </DateInfo>
+                            <StatusInfo>
+                                <Off>0</Off>
+                            </StatusInfo>
+                            <NeutralGround>0</NeutralGround>
+                            <RoundInfo>
+                                <Round>28</Round>
+                            </RoundInfo>
+                        </Fixture>
+                    </Match>
+                </Tournament>
+            </Category>
+            <Category BetradarCategoryID="352">
+                <Texts>
+                    <Text Language="BET">
+                        <Value>India</Value>
+                    </Text>
+                    <Text Language="en">
+                        <Value>India</Value>
+                    </Text>
+                </Texts>
+                <Tournament BetradarTournamentID="38">
+                    <Texts>
+                        <Text Language="BET">
+                            <Value>I-League</Value>
+                        </Text>
+                        <Text Language="en">
+                            <Value>I-League</Value>
+                        </Text>
+                    </Texts>
+                    <Match BetradarMatchID="8602758">
+                        <Fixture>
+                            <Competitors>
+                                <Texts>
+                                    <Text ID="6823583" SUPERID="118670" Type="1">
+                                        <Text Language="BET">
+                                            <Value>Bengaluru FC</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>Bengaluru FC</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                                <Texts>
+                                    <Text ID="683689" SUPERID="46145" Type="2">
+                                        <Text Language="BET">
+                                            <Value>Salgaocar SC</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>Salgaocar SC</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                            </Competitors>
+                            <DateInfo>
+                                <MatchDate>2016-04-17T16:30:00</MatchDate>
+                            </DateInfo>
+                            <StatusInfo>
+                                <Off>0</Off>
+                            </StatusInfo>
+                            <NeutralGround>0</NeutralGround>
+                            <RoundInfo>
+                                <Round>17</Round>
+                            </RoundInfo>
+                        </Fixture>
+                    </Match>
+                    <Match BetradarMatchID="8602756">
+                        <Fixture>
+                            <Competitors>
+                                <Texts>
+                                    <Text ID="1416086" SUPERID="46142" Type="1">
+                                        <Text Language="BET">
+                                            <Value>Mumbai FC</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>Mumbai FC</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                                <Texts>
+                                    <Text ID="5256753" SUPERID="58741" Type="2">
+                                        <Text Language="BET">
+                                            <Value>Lajong SC</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>Lajong SC</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                            </Competitors>
+                            <DateInfo>
+                                <MatchDate>2016-04-17T16:30:00</MatchDate>
+                            </DateInfo>
+                            <StatusInfo>
+                                <Off>0</Off>
+                            </StatusInfo>
+                            <NeutralGround>0</NeutralGround>
+                            <RoundInfo>
+                                <Round>17</Round>
+                            </RoundInfo>
+                        </Fixture>
+                    </Match>
+                </Tournament>
+            </Category>
+            <Category BetradarCategoryID="938">
+                <Texts>
+                    <Text Language="BET">
+                        <Value>Gibraltar</Value>
+                    </Text>
+                    <Text Language="en">
+                        <Value>Gibraltar</Value>
+                    </Text>
+                </Texts>
+                <Tournament BetradarTournamentID="38">
+                    <Texts>
+                        <Text Language="BET">
+                            <Value>First Division</Value>
+                        </Text>
+                        <Text Language="en">
+                            <Value>Premier Division</Value>
+                        </Text>
+                    </Texts>
+                    <Match BetradarMatchID="9019673">
+                        <Fixture>
+                            <Competitors>
+                                <Texts>
+                                    <Text ID="6891255" SUPERID="126312" Type="1">
+                                        <Text Language="BET">
+                                            <Value>ST Josephs FC</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>St Josephs FC</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                                <Texts>
+                                    <Text ID="6891252" SUPERID="126304" Type="2">
+                                        <Text Language="BET">
+                                            <Value>Lincoln Red Imps FC</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>Lincoln FC</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                            </Competitors>
+                            <DateInfo>
+                                <MatchDate>2016-04-17T16:30:00</MatchDate>
+                            </DateInfo>
+                            <StatusInfo>
+                                <Off>0</Off>
+                            </StatusInfo>
+                            <NeutralGround>0</NeutralGround>
+                            <RoundInfo>
+                                <Round>1</Round>
+                            </RoundInfo>
+                        </Fixture>
+                    </Match>
+                </Tournament>
+            </Category>
+        </Sport>
+    </Sports>
+</BetradarBetData>

@@ -1,0 +1,1 @@
+ALTER TABLE user_invited_to_betslip ADD invited_by uuid;

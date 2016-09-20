@@ -1,0 +1,1 @@
+ALTER TABLE user ADD four_digit int;

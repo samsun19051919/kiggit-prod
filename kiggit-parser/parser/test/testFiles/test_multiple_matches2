@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:SportradarData fileName="Soccer.Switzerland.PromotionLeague.1516.PromotionLeague1516" generatedAt="2016-02-10T01:08:00.208+01:00" serviceId="9" serviceName="schedulesandresult" updateType="full" xmlns:ns2="http://xmlexport.scoreradar.com/V1">
+    <Sport id="1" name="Soccer">
+        <Category id="25" name="Switzerland">
+            <Tournament id="38" name="Promotion League" stageType="Main stage of tournament" uniqueTournamentId="1101">
+                <Season end="2016-05-30T23:59:00+02:00" id="10534" name="Promotion League 15/16" start="2015-08-04T00:00:00+02:00" year="15/16"/>
+                <UniqueTournament description="3rd level in the Swiss football league system" name="Promotion League" id="1101"/>
+                <Leagues>
+                    <League description="Promotion League 15/16" end="2016-05-30T23:59:00+02:00" numberofteams="0" presentationId="0" round="0" seasondescription="Main stage of tournament" seasontype="21" start="2015-08-04T00:00:00+02:00" tableId="17900" tournamentid="1554"/>
+                </Leagues>
+                <Matches>
+                       <Match dateOfMatch="2016-05-28T16:00:00+02:00" id="7515698" neutralGround="false">
+                        <Roundinfo round="30"/>
+                        <Teams>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="1" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="2" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                       <Match dateOfMatch="2016-05-28T16:00:00+02:00" id="1515698" neutralGround="false">
+                        <Roundinfo round="30"/>
+                        <Teams>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="1" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="2" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-28T16:00:00+02:00" id="7515700" neutralGround="false">
+                        <Roundinfo round="30"/>
+                        <Teams>
+                            <Team betradarTeamId="271771" gender="M" name="Etoile Carouge FC" type="1" id="2497">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290463" gender="M" name="FC Zurich II" type="2" id="2482">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                </Matches>
+            </Tournament>
+        </Category>
+    </Sport>
+</ns2:SportradarData>

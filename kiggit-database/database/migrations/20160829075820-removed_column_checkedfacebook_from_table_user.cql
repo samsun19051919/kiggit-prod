@@ -1,0 +1,1 @@
+ALTER TABLE user DROP checked_facebook;

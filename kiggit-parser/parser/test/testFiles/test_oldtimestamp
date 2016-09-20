@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BetradarBetData>
+    <Timestamp CreatedTime="2016-03-18T15:43:00" TimeZone="Europe/Oslo"/>
+    <Sports>
+        <Sport BetradarSportID="1">
+            <Texts>
+                <Text Language="BET">
+                    <Value>Soccer</Value>
+                </Text>
+                <Text Language="en">
+                    <Value>Soccer</Value>
+                </Text>
+            </Texts>
+            <Category BetradarCategoryID="99">
+                <Texts>
+                    <Text Language="BET">
+                        <Value>Denmark</Value>
+                    </Text>
+                    <Text Language="en">
+                        <Value>Denmark</Value>
+                    </Text>
+                </Texts>
+                <Tournament BetradarTournamentID="18356">
+                    <Texts>
+                        <Text Language="BET">
+                            <Value>Kiggit League</Value>
+                        </Text>
+                        <Text Language="en">
+                            <Value>Kiggit League</Value>
+                        </Text>
+                    </Texts>
+                    <Match BetradarMatchID="1234567">
+                        <Fixture>
+                            <Competitors>
+                                <Texts>
+                                    <Text ID="6134064" SUPERID="3370" Type="1">
+                                        <Text Language="BET">
+                                            <Value>Backend Team</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>Backend Team</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                                <Texts>
+                                    <Text ID="7080619" SUPERID="34695" Type="2">
+                                        <Text Language="BET">
+                                            <Value>Frontend Team</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>Frontend Team</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                            </Competitors>
+                            <DateInfo>
+                                <MatchDate>2016-08-08T17:30:00</MatchDate>
+                            </DateInfo>
+                            <StatusInfo>
+                                <Off>0</Off>
+                            </StatusInfo>
+                            <NeutralGround>0</NeutralGround>
+                            <RoundInfo>
+                                <Round>2</Round>
+                            </RoundInfo>
+                        </Fixture>
+                       <Result>
+                            <ScoreInfo>
+                                <Score Type="FT">0:1</Score>
+                                <Score Type="HT">0:0</Score>
+                            </ScoreInfo>
+                        </Result>
+                    </Match>
+                </Tournament>
+            </Category>
+        </Sport>
+    </Sports>
+</BetradarBetData>

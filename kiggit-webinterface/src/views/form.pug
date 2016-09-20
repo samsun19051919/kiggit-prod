@@ -1,0 +1,18 @@
+html
+  body
+    p Password:
+    input#password(name='password', required='required', type='password')
+    p Confirm Password:
+    input#password_confirm(name='password_confirm', required='required', type='password', oninput='check(this)')
+    script(language='javascript', type='text/javascript').
+      function check(input) {
+      if (input.value != document.getElementById('password').value) {
+      input.setCustomValidity('Password Must be Matching.');
+      } else {
+      // input is valid -- reset the error message
+      input.setCustomValidity('');
+      }
+      }
+    br
+    br
+    input(type='submit')

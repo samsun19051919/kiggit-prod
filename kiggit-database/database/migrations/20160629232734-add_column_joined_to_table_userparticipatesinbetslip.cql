@@ -1,0 +1,1 @@
+ALTER TABLE user_participates_in_betslip ADD joined timestamp;

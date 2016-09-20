@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:SportradarData fileName="Soccer.Switzerland.PromotionLeague.1516.PromotionLeague1516" generatedAt="2016-02-10T01:08:00.208+01:00" serviceId="9" serviceName="schedulesandresult" updateType="full" xmlns:ns2="http://xmlexport.scoreradar.com/V1">
+    <Sport id="1" name="Soccer">
+        <Category id="25" name="Switzerland">
+            <Tournament id="38" name="Promotion League" stageType="Main stage of tournament" uniqueTournamentId="1101">
+                <Season end="2016-05-30T23:59:00+02:00" id="10534" name="Promotion League 15/16" start="2015-08-04T00:00:00+02:00" year="15/16"/>
+                <UniqueTournament description="3rd level in the Swiss football league system" name="Promotion League" id="1101"/>
+                <Leagues>
+                    <League description="Promotion League 15/16" end="2016-05-30T23:59:00+02:00" numberofteams="0" presentationId="0" round="0" seasondescription="Main stage of tournament" seasontype="21" start="2015-08-04T00:00:00+02:00" tableId="17900" tournamentid="1554"/>
+                </Leagues>
+                <Matches>
+                        <Teams>
+                            <Team betradarTeamId="6358317" gender="M" name="FC Koniz" type="1" id="78625">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="2" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                        <Result canceled="false" postponed="false">
+                            <Score orderById="0" type="FT" value="2:2"/>
+                        </Result>
+                    </Match>
+                    <Match dateOfMatch="2015-11-14T17:30:00+01:00" id="7515354" neutralGround="false">
+                        <Roundinfo round="16"/>
+                        <Teams>
+                            <Team betradarTeamId="6280678" gender="M" name="SC Kriens" type="1" id="2464">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="567012" gender="M" name="FC Rapperswil-Jona" type="2" id="37390">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                        <Result canceled="false" postponed="false">
+                            <Score orderById="0" type="FT" value="0:1"/>
+                        </Result>
+                    </Match>
+                    <Match dateOfMatch="2015-11-15T15:00:00+01:00" id="7515346" neutralGround="false">
+                        <Roundinfo round="16"/>
+                        <Teams>
+                            <Team betradarTeamId="290455" gender="M" name="Servette Geneva FC" type="1" id="2448">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239057" gender="M" name="BSC Old Boys" type="2" id="34777">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                        <Result canceled="false" postponed="false">
+                            <Score orderById="0" type="FT" value="3:2"/>
+                        </Result>
+                    </Match>
+                    <Match dateOfMatch="2015-11-15T16:00:00+01:00" id="7515358" neutralGround="false">
+                        <Roundinfo round="16"/>
+                        <Teams>
+                            <Team betradarTeamId="290468" gender="M" name="St. Gallen II" type="1" id="2496">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5527647" gender="M" name="SC Bruhl SG" type="2" id="25220">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                        <Result canceled="false" postponed="false">
+                            <Score orderById="0" type="FT" value="0:4"/>
+                        </Result>
+                    </Match>
+                    <Match dateOfMatch="2015-11-21T15:00:00+01:00" id="7515372" neutralGround="false">
+                        <Roundinfo round="17"/>
+                        <Teams>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="1" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="271771" gender="M" name="Etoile Carouge FC" type="2" id="2497">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                        <Result canceled="false" postponed="false">
+                            <Score orderById="0" type="FT" value="1:1"/>
+                        </Result>
+                    </Match>
+                    <Match dateOfMatch="2015-11-21T16:00:00+01:00" id="7515360" neutralGround="false">
+                        <Roundinfo round="17"/>
+                        <Teams>
+                            <Team betradarTeamId="567012" gender="M" name="FC Rapperswil-Jona" type="1" id="37390">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="275058" gender="M" name="SC Cham" type="2" id="2476">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                        <Result canceled="false" postponed="false">
+                            <Score orderById="0" type="FT" value="0:1"/>
+                        </Result>
+                    </Match>
+                    <Match dateOfMatch="2015-11-21T16:00:00+01:00" id="7515362" neutralGround="false">
+                        <Roundinfo round="17"/>
+                        <Teams>
+                            <Team betradarTeamId="6358317" gender="M" name="FC Koniz" type="1" id="78625">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290463" gender="M" name="FC Zurich II" type="2" id="2482">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                        <Result canceled="false" postponed="false">
+                            <Score orderById="0" type="FT" value="3:5"/>
+                        </Result>
+                    </Match>
+                    <Match dateOfMatch="2015-11-21T16:00:00+01:00" id="7515364" neutralGround="false">
+                        <Roundinfo round="17"/>
+                        <Teams>
+                            <Team betradarTeamId="5239057" gender="M" name="BSC Old Boys" type="1" id="34777">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5528400" gender="M" name="FC Sion II" type="2" id="75231">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                        <Result canceled="false" postponed="false">
+                            <Score orderById="0" type="FT" value="3:0"/>
+                        </Result>
+                    </Match>
+                    <Match dateOfMatch="2015-11-21T16:00:00+01:00" id="7515368" neutralGround="false">
+                        <Roundinfo round="17"/>
+                        <Teams>
+                            <Team betradarTeamId="276828" gender="M" name="Juventus Zurich" type="1" id="2468">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290464" gender="M" name="FC Basel II" type="2" id="2487">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                        <Result canceled="false" postponed="false">
+                            <Score orderById="0" type="FT" value="2:1"/>
+                        </Result>
+                    </Match>
+                    <Match dateOfMatch="2015-11-21T16:00:00+01:00" id="7515370" neutralGround="false">
+                        <Roundinfo round="17"/>
+                        <Teams>
+                            <Team betradarTeamId="269470" gender="M" name="FC Stade Nyonnais" type="1" id="2490">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="2" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                        <Result canceled="true" postponed="true">
+                            <Comment>Match was abandoned after 62 minutes (1:1) due to bad weather conditions</Comment>
+                        </Result>
+                    </Match>
+                    <Match dateOfMatch="2015-11-21T16:30:00+01:00" id="7515366" neutralGround="false">
+                        <Roundinfo round="17"/>
+                        <Teams>
+                            <Team betradarTeamId="5527647" gender="M" name="SC Bruhl SG" type="1" id="25220">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="6280678" gender="M" name="SC Kriens" type="2" id="2464">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                        <Result canceled="false" postponed="false">
+                            <Score orderById="0" type="FT" value="1:3"/>
+                        </Result>
+                    </Match>
+                    <Match dateOfMatch="2015-11-22T15:00:00+01:00" id="7515374" neutralGround="false">
+                        <Roundinfo round="17"/>
+                        <Teams>
+                            <Team betradarTeamId="290455" gender="M" name="Servette Geneva FC" type="1" id="2448">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290468" gender="M" name="St. Gallen II" type="2" id="2496">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                        <Result canceled="false" postponed="false">
+                            <Score orderById="0" type="FT" value="1:0"/>
+                        </Result>
+                    </Match>
+                    <Match dateOfMatch="2015-11-28T15:00:00+01:00" id="7515342" neutralGround="false">
+                        <Roundinfo round="16"/>
+                        <Teams>
+                            <Team betradarTeamId="290464" gender="M" name="FC Basel II" type="1" id="2487">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="269470" gender="M" name="FC Stade Nyonnais" type="2" id="2490">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                        <Result canceled="false" postponed="false">
+                            <Score orderById="0" type="FT" value="5:2"/>
+                        </Result>
+                    </Match>
+                    <Match dateOfMatch="2016-03-05T15:00:00+01:00" id="7515384" neutralGround="false">
+                        <Roundinfo round="18"/>
+                        <Teams>
+                            <Team betradarTeamId="290464" gender="M" name="FC Basel II" type="1" id="2487">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="567012" gender="M" name="FC Rapperswil-Jona" type="2" id="37390">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-05T16:00:00+01:00" id="7515376" neutralGround="false">
+                        <Roundinfo round="18"/>
+                        <Teams>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="1" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="276828" gender="M" name="Juventus Zurich" type="2" id="2468">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-05T16:00:00+01:00" id="7515386" neutralGround="false">
+                        <Roundinfo round="18"/>
+                        <Teams>
+                            <Team betradarTeamId="275058" gender="M" name="SC Cham" type="1" id="2476">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5527647" gender="M" name="SC Bruhl SG" type="2" id="25220">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-05T17:30:00+01:00" id="7515388" neutralGround="false">
+                        <Roundinfo round="18"/>
+                        <Teams>
+                            <Team betradarTeamId="6280678" gender="M" name="SC Kriens" type="1" id="2464">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290455" gender="M" name="Servette Geneva FC" type="2" id="2448">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-05T18:00:00+01:00" id="7515380" neutralGround="false">
+                        <Roundinfo round="18"/>
+                        <Teams>
+                            <Team betradarTeamId="271771" gender="M" name="Etoile Carouge FC" type="1" id="2497">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="6358317" gender="M" name="FC Koniz" type="2" id="78625">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-06T16:00:00+01:00" id="7515378" neutralGround="false">
+                        <Roundinfo round="18"/>
+                        <Teams>
+                            <Team betradarTeamId="5528400" gender="M" name="FC Sion II" type="1" id="75231">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="2" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-06T16:00:00+01:00" id="7515382" neutralGround="false">
+                        <Roundinfo round="18"/>
+                        <Teams>
+                            <Team betradarTeamId="290463" gender="M" name="FC Zurich II" type="1" id="2482">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="269470" gender="M" name="FC Stade Nyonnais" type="2" id="2490">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-06T16:00:00+01:00" id="7515390" neutralGround="false">
+                        <Roundinfo round="18"/>
+                        <Teams>
+                            <Team betradarTeamId="290468" gender="M" name="St. Gallen II" type="1" id="2496">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239057" gender="M" name="BSC Old Boys" type="2" id="34777">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-12T16:00:00+01:00" id="7515392" neutralGround="false">
+                        <Roundinfo round="19"/>
+                        <Teams>
+                            <Team betradarTeamId="567012" gender="M" name="FC Rapperswil-Jona" type="1" id="37390">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="2" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-12T16:00:00+01:00" id="7515394" neutralGround="false">
+                        <Roundinfo round="19"/>
+                        <Teams>
+                            <Team betradarTeamId="6358317" gender="M" name="FC Koniz" type="1" id="78625">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="2" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-12T16:00:00+01:00" id="7515396" neutralGround="false">
+                        <Roundinfo round="19"/>
+                        <Teams>
+                            <Team betradarTeamId="5239057" gender="M" name="BSC Old Boys" type="1" id="34777">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="6280678" gender="M" name="SC Kriens" type="2" id="2464">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-12T16:00:00+01:00" id="7515404" neutralGround="false">
+                        <Roundinfo round="19"/>
+                        <Teams>
+                            <Team betradarTeamId="276828" gender="M" name="Juventus Zurich" type="1" id="2468">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290463" gender="M" name="FC Zurich II" type="2" id="2482">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-12T16:30:00+01:00" id="7515402" neutralGround="false">
+                        <Roundinfo round="19"/>
+                        <Teams>
+                            <Team betradarTeamId="5527647" gender="M" name="SC Bruhl SG" type="1" id="25220">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290464" gender="M" name="FC Basel II" type="2" id="2487">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-13T15:00:00+01:00" id="7515406" neutralGround="false">
+                        <Roundinfo round="19"/>
+                        <Teams>
+                            <Team betradarTeamId="269470" gender="M" name="FC Stade Nyonnais" type="1" id="2490">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="271771" gender="M" name="Etoile Carouge FC" type="2" id="2497">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-13T15:00:00+01:00" id="7515408" neutralGround="false">
+                        <Roundinfo round="19"/>
+                        <Teams>
+                            <Team betradarTeamId="290455" gender="M" name="Servette Geneva FC" type="1" id="2448">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="275058" gender="M" name="SC Cham" type="2" id="2476">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-13T16:00:00+01:00" id="7515400" neutralGround="false">
+                        <Roundinfo round="19"/>
+                        <Teams>
+                            <Team betradarTeamId="290468" gender="M" name="St. Gallen II" type="1" id="2496">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5528400" gender="M" name="FC Sion II" type="2" id="75231">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-19T15:00:00+01:00" id="7515410" neutralGround="false">
+                        <Roundinfo round="20"/>
+                        <Teams>
+                            <Team betradarTeamId="290464" gender="M" name="FC Basel II" type="1" id="2487">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290455" gender="M" name="Servette Geneva FC" type="2" id="2448">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-19T16:00:00+01:00" id="7515168" neutralGround="false">
+                        <Roundinfo round="5"/>
+                        <Teams>
+                            <Team betradarTeamId="5239057" gender="M" name="BSC Old Boys" type="1" id="34777">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="275058" gender="M" name="SC Cham" type="2" id="2476">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-19T16:00:00+01:00" id="7515412" neutralGround="false">
+                        <Roundinfo round="20"/>
+                        <Teams>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="1" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5527647" gender="M" name="SC Bruhl SG" type="2" id="25220">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-19T17:30:00+01:00" id="7515424" neutralGround="false">
+                        <Roundinfo round="20"/>
+                        <Teams>
+                            <Team betradarTeamId="6280678" gender="M" name="SC Kriens" type="1" id="2464">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290468" gender="M" name="St. Gallen II" type="2" id="2496">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-19T18:00:00+01:00" id="7515420" neutralGround="false">
+                        <Roundinfo round="20"/>
+                        <Teams>
+                            <Team betradarTeamId="271771" gender="M" name="Etoile Carouge FC" type="1" id="2497">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="276828" gender="M" name="Juventus Zurich" type="2" id="2468">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-20T16:00:00+01:00" id="7515416" neutralGround="false">
+                        <Roundinfo round="20"/>
+                        <Teams>
+                            <Team betradarTeamId="5528400" gender="M" name="FC Sion II" type="1" id="75231">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="6358317" gender="M" name="FC Koniz" type="2" id="78625">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-20T16:00:00+01:00" id="7515418" neutralGround="false">
+                        <Roundinfo round="20"/>
+                        <Teams>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="1" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="269470" gender="M" name="FC Stade Nyonnais" type="2" id="2490">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-20T16:00:00+01:00" id="7515422" neutralGround="false">
+                        <Roundinfo round="20"/>
+                        <Teams>
+                            <Team betradarTeamId="290463" gender="M" name="FC Zurich II" type="1" id="2482">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="567012" gender="M" name="FC Rapperswil-Jona" type="2" id="37390">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-24T20:00:00+01:00" id="7515440" neutralGround="false">
+                        <Roundinfo round="21"/>
+                        <Teams>
+                            <Team betradarTeamId="290455" gender="M" name="Servette Geneva FC" type="1" id="2448">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="2" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-26T16:00:00+01:00" id="7515428" neutralGround="false">
+                        <Roundinfo round="21"/>
+                        <Teams>
+                            <Team betradarTeamId="290468" gender="M" name="St. Gallen II" type="1" id="2496">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="275058" gender="M" name="SC Cham" type="2" id="2476">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-26T16:00:00+01:00" id="7515432" neutralGround="false">
+                        <Roundinfo round="21"/>
+                        <Teams>
+                            <Team betradarTeamId="276828" gender="M" name="Juventus Zurich" type="1" id="2468">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="2" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-26T16:00:00+01:00" id="7515434" neutralGround="false">
+                        <Roundinfo round="21"/>
+                        <Teams>
+                            <Team betradarTeamId="269470" gender="M" name="FC Stade Nyonnais" type="1" id="2490">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="6358317" gender="M" name="FC Koniz" type="2" id="78625">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-26T16:00:00+01:00" id="7515436" neutralGround="false">
+                        <Roundinfo round="21"/>
+                        <Teams>
+                            <Team betradarTeamId="567012" gender="M" name="FC Rapperswil-Jona" type="1" id="37390">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="271771" gender="M" name="Etoile Carouge FC" type="2" id="2497">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-26T16:30:00+01:00" id="7515430" neutralGround="false">
+                        <Roundinfo round="21"/>
+                        <Teams>
+                            <Team betradarTeamId="5527647" gender="M" name="SC Bruhl SG" type="1" id="25220">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290463" gender="M" name="FC Zurich II" type="2" id="2482">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-26T17:00:00+01:00" id="7515438" neutralGround="false">
+                        <Roundinfo round="21"/>
+                        <Teams>
+                            <Team betradarTeamId="5239057" gender="M" name="BSC Old Boys" type="1" id="34777">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290464" gender="M" name="FC Basel II" type="2" id="2487">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-03-26T17:30:00+01:00" id="7515426" neutralGround="false">
+                        <Roundinfo round="21"/>
+                        <Teams>
+                            <Team betradarTeamId="6280678" gender="M" name="SC Kriens" type="1" id="2464">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5528400" gender="M" name="FC Sion II" type="2" id="75231">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-02T15:00:00+02:00" id="7515442" neutralGround="false">
+                        <Roundinfo round="22"/>
+                        <Teams>
+                            <Team betradarTeamId="290464" gender="M" name="FC Basel II" type="1" id="2487">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290468" gender="M" name="St. Gallen II" type="2" id="2496">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-02T16:00:00+02:00" id="7515444" neutralGround="false">
+                        <Roundinfo round="22"/>
+                        <Teams>
+                            <Team betradarTeamId="6358317" gender="M" name="FC Koniz" type="1" id="78625">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="276828" gender="M" name="Juventus Zurich" type="2" id="2468">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-02T16:00:00+02:00" id="7515446" neutralGround="false">
+                        <Roundinfo round="22"/>
+                        <Teams>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="1" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239057" gender="M" name="BSC Old Boys" type="2" id="34777">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-02T16:00:00+02:00" id="7515448" neutralGround="false">
+                        <Roundinfo round="22"/>
+                        <Teams>
+                            <Team betradarTeamId="275058" gender="M" name="SC Cham" type="1" id="2476">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="6280678" gender="M" name="SC Kriens" type="2" id="2464">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-02T16:00:00+02:00" id="7515450" neutralGround="false">
+                        <Roundinfo round="22"/>
+                        <Teams>
+                            <Team betradarTeamId="269470" gender="M" name="FC Stade Nyonnais" type="1" id="2490">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5528400" gender="M" name="FC Sion II" type="2" id="75231">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-02T18:00:00+02:00" id="7515454" neutralGround="false">
+                        <Roundinfo round="22"/>
+                        <Teams>
+                            <Team betradarTeamId="271771" gender="M" name="Etoile Carouge FC" type="1" id="2497">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5527647" gender="M" name="SC Bruhl SG" type="2" id="25220">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-03T16:00:00+02:00" id="7515452" neutralGround="false">
+                        <Roundinfo round="22"/>
+                        <Teams>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="1" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="567012" gender="M" name="FC Rapperswil-Jona" type="2" id="37390">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-03T16:00:00+02:00" id="7515456" neutralGround="false">
+                        <Roundinfo round="22"/>
+                        <Teams>
+                            <Team betradarTeamId="290463" gender="M" name="FC Zurich II" type="1" id="2482">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290455" gender="M" name="Servette Geneva FC" type="2" id="2448">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-09T16:00:00+02:00" id="7515458" neutralGround="false">
+                        <Roundinfo round="23"/>
+                        <Teams>
+                            <Team betradarTeamId="275058" gender="M" name="SC Cham" type="1" id="2476">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5528400" gender="M" name="FC Sion II" type="2" id="75231">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-09T16:00:00+02:00" id="7515460" neutralGround="false">
+                        <Roundinfo round="23"/>
+                        <Teams>
+                            <Team betradarTeamId="567012" gender="M" name="FC Rapperswil-Jona" type="1" id="37390">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="6358317" gender="M" name="FC Koniz" type="2" id="78625">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-09T16:00:00+02:00" id="7515462" neutralGround="false">
+                        <Roundinfo round="23"/>
+                        <Teams>
+                            <Team betradarTeamId="5239057" gender="M" name="BSC Old Boys" type="1" id="34777">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290463" gender="M" name="FC Zurich II" type="2" id="2482">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-09T16:00:00+02:00" id="7515470" neutralGround="false">
+                        <Roundinfo round="23"/>
+                        <Teams>
+                            <Team betradarTeamId="276828" gender="M" name="Juventus Zurich" type="1" id="2468">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="269470" gender="M" name="FC Stade Nyonnais" type="2" id="2490">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-09T16:30:00+02:00" id="7515468" neutralGround="false">
+                        <Roundinfo round="23"/>
+                        <Teams>
+                            <Team betradarTeamId="5527647" gender="M" name="SC Bruhl SG" type="1" id="25220">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="2" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-09T17:30:00+02:00" id="7515464" neutralGround="false">
+                        <Roundinfo round="23"/>
+                        <Teams>
+                            <Team betradarTeamId="6280678" gender="M" name="SC Kriens" type="1" id="2464">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290464" gender="M" name="FC Basel II" type="2" id="2487">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-10T16:00:00+02:00" id="7515466" neutralGround="false">
+                        <Roundinfo round="23"/>
+                        <Teams>
+                            <Team betradarTeamId="290468" gender="M" name="St. Gallen II" type="1" id="2496">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="2" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-13T20:00:00+02:00" id="7515472" neutralGround="false">
+                        <Roundinfo round="23"/>
+                        <Teams>
+                            <Team betradarTeamId="290455" gender="M" name="Servette Geneva FC" type="1" id="2448">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="271771" gender="M" name="Etoile Carouge FC" type="2" id="2497">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-16T15:00:00+02:00" id="7515474" neutralGround="false">
+                        <Roundinfo round="24"/>
+                        <Teams>
+                            <Team betradarTeamId="290464" gender="M" name="FC Basel II" type="1" id="2487">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="275058" gender="M" name="SC Cham" type="2" id="2476">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-16T16:00:00+02:00" id="7515476" neutralGround="false">
+                        <Roundinfo round="24"/>
+                        <Teams>
+                            <Team betradarTeamId="6358317" gender="M" name="FC Koniz" type="1" id="78625">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5527647" gender="M" name="SC Bruhl SG" type="2" id="25220">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-16T16:00:00+02:00" id="7515478" neutralGround="false">
+                        <Roundinfo round="24"/>
+                        <Teams>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="1" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="6280678" gender="M" name="SC Kriens" type="2" id="2464">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-16T18:00:00+02:00" id="7515514" neutralGround="false">
+                        <Roundinfo round="24"/>
+                        <Teams>
+                            <Team betradarTeamId="271771" gender="M" name="Etoile Carouge FC" type="1" id="2497">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239057" gender="M" name="BSC Old Boys" type="2" id="34777">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-17T15:00:00+02:00" id="7515242" neutralGround="false">
+                        <Roundinfo cupRound="0" round="24"/>
+                        <Teams>
+                            <Team betradarTeamId="290455" gender="M" name="Servette Geneva FC" type="1" id="2448">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="2" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-17T16:00:00+02:00" id="7515480" neutralGround="false">
+                        <Roundinfo round="24"/>
+                        <Teams>
+                            <Team betradarTeamId="5528400" gender="M" name="FC Sion II" type="1" id="75231">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="276828" gender="M" name="Juventus Zurich" type="2" id="2468">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-17T16:00:00+02:00" id="7515482" neutralGround="false">
+                        <Roundinfo round="24"/>
+                        <Teams>
+                            <Team betradarTeamId="269470" gender="M" name="FC Stade Nyonnais" type="1" id="2490">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="567012" gender="M" name="FC Rapperswil-Jona" type="2" id="37390">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-17T16:00:00+02:00" id="7515546" neutralGround="false">
+                        <Roundinfo round="24"/>
+                        <Teams>
+                            <Team betradarTeamId="290463" gender="M" name="FC Zurich II" type="1" id="2482">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290468" gender="M" name="St. Gallen II" type="2" id="2496">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-23T15:00:00+02:00" id="7515548" neutralGround="false">
+                        <Roundinfo round="25"/>
+                        <Teams>
+                            <Team betradarTeamId="290464" gender="M" name="FC Basel II" type="1" id="2487">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5528400" gender="M" name="FC Sion II" type="2" id="75231">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-23T16:00:00+02:00" id="7515258" neutralGround="false">
+                        <Roundinfo cupRound="0" round="25"/>
+                        <Teams>
+                            <Team betradarTeamId="276828" gender="M" name="Juventus Zurich" type="1" id="2468">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="567012" gender="M" name="FC Rapperswil-Jona" type="2" id="37390">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-23T16:00:00+02:00" id="7515550" neutralGround="false">
+                        <Roundinfo round="25"/>
+                        <Teams>
+                            <Team betradarTeamId="275058" gender="M" name="SC Cham" type="1" id="2476">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="2" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-23T16:00:00+02:00" id="7515554" neutralGround="false">
+                        <Roundinfo round="25"/>
+                        <Teams>
+                            <Team betradarTeamId="5239057" gender="M" name="BSC Old Boys" type="1" id="34777">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="2" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-23T16:30:00+02:00" id="7515560" neutralGround="false">
+                        <Roundinfo round="25"/>
+                        <Teams>
+                            <Team betradarTeamId="5527647" gender="M" name="SC Bruhl SG" type="1" id="25220">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="269470" gender="M" name="FC Stade Nyonnais" type="2" id="2490">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-23T17:30:00+02:00" id="7515556" neutralGround="false">
+                        <Roundinfo round="25"/>
+                        <Teams>
+                            <Team betradarTeamId="6280678" gender="M" name="SC Kriens" type="1" id="2464">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290463" gender="M" name="FC Zurich II" type="2" id="2482">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-23T19:00:00+02:00" id="7515562" neutralGround="false">
+                        <Roundinfo round="25"/>
+                        <Teams>
+                            <Team betradarTeamId="290455" gender="M" name="Servette Geneva FC" type="1" id="2448">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="6358317" gender="M" name="FC Koniz" type="2" id="78625">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-24T16:00:00+02:00" id="7515558" neutralGround="false">
+                        <Roundinfo round="25"/>
+                        <Teams>
+                            <Team betradarTeamId="290468" gender="M" name="St. Gallen II" type="1" id="2496">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="271771" gender="M" name="Etoile Carouge FC" type="2" id="2497">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-30T16:00:00+02:00" id="7515564" neutralGround="false">
+                        <Roundinfo round="26"/>
+                        <Teams>
+                            <Team betradarTeamId="6358317" gender="M" name="FC Koniz" type="1" id="78625">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239057" gender="M" name="BSC Old Boys" type="2" id="34777">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-30T16:00:00+02:00" id="7515566" neutralGround="false">
+                        <Roundinfo round="26"/>
+                        <Teams>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="1" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290464" gender="M" name="FC Basel II" type="2" id="2487">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-30T18:00:00+02:00" id="7515576" neutralGround="false">
+                        <Roundinfo round="26"/>
+                        <Teams>
+                            <Team betradarTeamId="271771" gender="M" name="Etoile Carouge FC" type="1" id="2497">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="6280678" gender="M" name="SC Kriens" type="2" id="2464">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-04-30T18:30:00+02:00" id="7515570" neutralGround="false">
+                        <Roundinfo round="26"/>
+                        <Teams>
+                            <Team betradarTeamId="276828" gender="M" name="Juventus Zurich" type="1" id="2468">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5527647" gender="M" name="SC Bruhl SG" type="2" id="25220">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-01T15:00:00+02:00" id="7515572" neutralGround="false">
+                        <Roundinfo round="26"/>
+                        <Teams>
+                            <Team betradarTeamId="269470" gender="M" name="FC Stade Nyonnais" type="1" id="2490">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290455" gender="M" name="Servette Geneva FC" type="2" id="2448">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-01T16:00:00+02:00" id="7515568" neutralGround="false">
+                        <Roundinfo round="26"/>
+                        <Teams>
+                            <Team betradarTeamId="5528400" gender="M" name="FC Sion II" type="1" id="75231">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="567012" gender="M" name="FC Rapperswil-Jona" type="2" id="37390">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-01T16:00:00+02:00" id="7515574" neutralGround="false">
+                        <Roundinfo round="26"/>
+                        <Teams>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="1" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290468" gender="M" name="St. Gallen II" type="2" id="2496">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-01T16:00:00+02:00" id="7515578" neutralGround="false">
+                        <Roundinfo round="26"/>
+                        <Teams>
+                            <Team betradarTeamId="290463" gender="M" name="FC Zurich II" type="1" id="2482">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="275058" gender="M" name="SC Cham" type="2" id="2476">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-07T15:00:00+02:00" id="7515580" neutralGround="false">
+                        <Roundinfo round="27"/>
+                        <Teams>
+                            <Team betradarTeamId="290464" gender="M" name="FC Basel II" type="1" id="2487">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290463" gender="M" name="FC Zurich II" type="2" id="2482">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-07T16:00:00+02:00" id="7515292" neutralGround="false">
+                        <Roundinfo cupRound="0" round="27"/>
+                        <Teams>
+                            <Team betradarTeamId="276828" gender="M" name="Juventus Zurich" type="1" id="2468">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290455" gender="M" name="Servette Geneva FC" type="2" id="2448">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-07T16:00:00+02:00" id="7515582" neutralGround="false">
+                        <Roundinfo round="27"/>
+                        <Teams>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="1" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5528400" gender="M" name="FC Sion II" type="2" id="75231">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-07T16:00:00+02:00" id="7515584" neutralGround="false">
+                        <Roundinfo round="27"/>
+                        <Teams>
+                            <Team betradarTeamId="275058" gender="M" name="SC Cham" type="1" id="2476">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="271771" gender="M" name="Etoile Carouge FC" type="2" id="2497">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-07T16:30:00+02:00" id="7515592" neutralGround="false">
+                        <Roundinfo round="27"/>
+                        <Teams>
+                            <Team betradarTeamId="5527647" gender="M" name="SC Bruhl SG" type="1" id="25220">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="567012" gender="M" name="FC Rapperswil-Jona" type="2" id="37390">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-07T17:30:00+02:00" id="7515588" neutralGround="false">
+                        <Roundinfo round="27"/>
+                        <Teams>
+                            <Team betradarTeamId="6280678" gender="M" name="SC Kriens" type="1" id="2464">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="2" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-08T14:00:00+02:00" id="7515586" neutralGround="false">
+                        <Roundinfo round="27"/>
+                        <Teams>
+                            <Team betradarTeamId="5239057" gender="M" name="BSC Old Boys" type="1" id="34777">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="269470" gender="M" name="FC Stade Nyonnais" type="2" id="2490">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-08T16:00:00+02:00" id="7515590" neutralGround="false">
+                        <Roundinfo round="27"/>
+                        <Teams>
+                            <Team betradarTeamId="290468" gender="M" name="St. Gallen II" type="1" id="2496">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="6358317" gender="M" name="FC Koniz" type="2" id="78625">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-14T16:00:00+02:00" id="7515596" neutralGround="false">
+                        <Roundinfo round="28"/>
+                        <Teams>
+                            <Team betradarTeamId="567012" gender="M" name="FC Rapperswil-Jona" type="1" id="37390">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290455" gender="M" name="Servette Geneva FC" type="2" id="2448">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-14T16:00:00+02:00" id="7515598" neutralGround="false">
+                        <Roundinfo round="28"/>
+                        <Teams>
+                            <Team betradarTeamId="6358317" gender="M" name="FC Koniz" type="1" id="78625">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="6280678" gender="M" name="SC Kriens" type="2" id="2464">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-14T16:00:00+02:00" id="7515604" neutralGround="false">
+                        <Roundinfo round="28"/>
+                        <Teams>
+                            <Team betradarTeamId="269470" gender="M" name="FC Stade Nyonnais" type="1" id="2490">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290468" gender="M" name="St. Gallen II" type="2" id="2496">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-14T18:00:00+02:00" id="7515608" neutralGround="false">
+                        <Roundinfo round="28"/>
+                        <Teams>
+                            <Team betradarTeamId="271771" gender="M" name="Etoile Carouge FC" type="1" id="2497">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290464" gender="M" name="FC Basel II" type="2" id="2487">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-14T18:30:00+02:00" id="7515602" neutralGround="false">
+                        <Roundinfo round="28"/>
+                        <Teams>
+                            <Team betradarTeamId="276828" gender="M" name="Juventus Zurich" type="1" id="2468">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239057" gender="M" name="BSC Old Boys" type="2" id="34777">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-15T16:00:00+02:00" id="7515600" neutralGround="false">
+                        <Roundinfo round="28"/>
+                        <Teams>
+                            <Team betradarTeamId="5528400" gender="M" name="FC Sion II" type="1" id="75231">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5527647" gender="M" name="SC Bruhl SG" type="2" id="25220">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-15T16:00:00+02:00" id="7515606" neutralGround="false">
+                        <Roundinfo round="28"/>
+                        <Teams>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="1" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="275058" gender="M" name="SC Cham" type="2" id="2476">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-15T16:00:00+02:00" id="7515610" neutralGround="false">
+                        <Roundinfo round="28"/>
+                        <Teams>
+                            <Team betradarTeamId="290463" gender="M" name="FC Zurich II" type="1" id="2482">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="2" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-21T16:00:00+02:00" id="7515612" neutralGround="false">
+                        <Roundinfo round="29"/>
+                        <Teams>
+                            <Team betradarTeamId="290463" gender="M" name="FC Zurich II" type="1" id="2482">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5528400" gender="M" name="FC Sion II" type="2" id="75231">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-21T16:00:00+02:00" id="7515614" neutralGround="false">
+                        <Roundinfo round="29"/>
+                        <Teams>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="1" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="271771" gender="M" name="Etoile Carouge FC" type="2" id="2497">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-21T16:00:00+02:00" id="7515616" neutralGround="false">
+                        <Roundinfo round="29"/>
+                        <Teams>
+                            <Team betradarTeamId="290464" gender="M" name="FC Basel II" type="1" id="2487">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="2" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-21T16:00:00+02:00" id="7515676" neutralGround="false">
+                        <Roundinfo round="29"/>
+                        <Teams>
+                            <Team betradarTeamId="275058" gender="M" name="SC Cham" type="1" id="2476">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="6358317" gender="M" name="FC Koniz" type="2" id="78625">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-21T16:00:00+02:00" id="7515678" neutralGround="false">
+                        <Roundinfo round="29"/>
+                        <Teams>
+                            <Team betradarTeamId="6280678" gender="M" name="SC Kriens" type="1" id="2464">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="269470" gender="M" name="FC Stade Nyonnais" type="2" id="2490">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-21T16:00:00+02:00" id="7515680" neutralGround="false">
+                        <Roundinfo round="29"/>
+                        <Teams>
+                            <Team betradarTeamId="290468" gender="M" name="St. Gallen II" type="1" id="2496">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="276828" gender="M" name="Juventus Zurich" type="2" id="2468">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-21T16:00:00+02:00" id="7515682" neutralGround="false">
+                        <Roundinfo round="29"/>
+                        <Teams>
+                            <Team betradarTeamId="5239057" gender="M" name="BSC Old Boys" type="1" id="34777">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="567012" gender="M" name="FC Rapperswil-Jona" type="2" id="37390">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-21T16:00:00+02:00" id="7515684" neutralGround="false">
+                        <Roundinfo round="29"/>
+                        <Teams>
+                            <Team betradarTeamId="290455" gender="M" name="Servette Geneva FC" type="1" id="2448">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5527647" gender="M" name="SC Bruhl SG" type="2" id="25220">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-28T16:00:00+02:00" id="7515686" neutralGround="false">
+                        <Roundinfo round="30"/>
+                        <Teams>
+                            <Team betradarTeamId="5528400" gender="M" name="FC Sion II" type="1" id="75231">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290455" gender="M" name="Servette Geneva FC" type="2" id="2448">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-28T16:00:00+02:00" id="7515688" neutralGround="false">
+                        <Roundinfo round="30"/>
+                        <Teams>
+                            <Team betradarTeamId="5527647" gender="M" name="SC Bruhl SG" type="1" id="25220">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239057" gender="M" name="BSC Old Boys" type="2" id="34777">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-28T16:00:00+02:00" id="7515690" neutralGround="false">
+                        <Roundinfo round="30"/>
+                        <Teams>
+                            <Team betradarTeamId="567012" gender="M" name="FC Rapperswil-Jona" type="1" id="37390">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290468" gender="M" name="St. Gallen II" type="2" id="2496">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-28T16:00:00+02:00" id="7515692" neutralGround="false">
+                        <Roundinfo round="30"/>
+                        <Teams>
+                            <Team betradarTeamId="276828" gender="M" name="Juventus Zurich" type="1" id="2468">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="6280678" gender="M" name="SC Kriens" type="2" id="2464">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-28T16:00:00+02:00" id="7515694" neutralGround="false">
+                        <Roundinfo round="30"/>
+                        <Teams>
+                            <Team betradarTeamId="269470" gender="M" name="FC Stade Nyonnais" type="1" id="2490">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="275058" gender="M" name="SC Cham" type="2" id="2476">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-28T16:00:00+02:00" id="7515696" neutralGround="false">
+                        <Roundinfo round="30"/>
+                        <Teams>
+                            <Team betradarTeamId="6358317" gender="M" name="FC Koniz" type="1" id="78625">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290464" gender="M" name="FC Basel II" type="2" id="2487">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-28T16:00:00+02:00" id="7515698" neutralGround="false">
+                        <Roundinfo round="30"/>
+                        <Teams>
+                            <Team betradarTeamId="269457" gender="M" name="FC Tuggen" type="1" id="35120">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="5239052" gender="M" name="FC Breitenrain" type="2" id="34762">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                    <Match dateOfMatch="2016-05-28T16:00:00+02:00" id="7515700" neutralGround="false">
+                        <Roundinfo round="30"/>
+                        <Teams>
+                            <Team betradarTeamId="271771" gender="M" name="Etoile Carouge FC" type="1" id="2497">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                            <Team betradarTeamId="290463" gender="M" name="FC Zurich II" type="2" id="2482">
+                                <Country iso="CHE" id="206" ioc="SUI" name="Switzerland"/>
+                            </Team>
+                        </Teams>
+                    </Match>
+                </Matches>
+            </Tournament>
+        </Category>
+    </Sport>
+</ns2:SportradarData>

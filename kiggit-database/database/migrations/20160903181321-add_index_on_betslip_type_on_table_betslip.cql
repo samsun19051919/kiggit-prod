@@ -1,0 +1,1 @@
+CREATE INDEX betslip_index ON betslip (betslip_type);

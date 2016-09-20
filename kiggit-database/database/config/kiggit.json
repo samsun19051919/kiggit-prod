@@ -1,0 +1,31 @@
+{
+  "jn": {
+    "host": "127.0.0.1",
+    "keyspace": "jn_kiggit",
+    "app_version": "0.1.0",
+    "replication": "WITH REPLICATION = {'class': 'SimpleStrategy', 'replication_factor' : 1}",
+    "log_level": "debug"
+  },
+  "ci": {
+    "host": "127.0.0.1",
+    "keyspace": "kiggit_ci",
+    "app_version": "0.1.0",
+    "replication": "WITH REPLICATION = {'class': 'SimpleStrategy', 'replication_factor' : 1}"
+  },
+  "test": {
+    "host": "cassandraDB",
+    "keyspace": "kiggit_test",
+    "app_version": "0.1.0",
+    "replication": "WITH REPLICATION = {'class': 'SimpleStrategy', 'replication_factor' : 1}"
+  },
+  "testproduction": {
+    "host": "52.58.178.207",
+    "keyspace": "kiggit_testproduction",
+    "replication": "WITH REPLICATION = {'class': 'NetworkTopologyStrategy','dc1': 2}"
+  },
+  "production": {
+    "host": "127.0.0.1",
+    "keyspace": "kiggit",
+    "replication": " WITH REPLICATION = {'class': 'NetworkTopologyStrategy','eu-west': 2, 'us-east': 2, 'sa-east': 1, 'us-west-1': 1, 'us-west-2': 1, 'ap-northeast': 1, 'ap-southeast-1': 1, 'ap-southeast-2': 1, 'datacenter1': 1}"
+  }
+}

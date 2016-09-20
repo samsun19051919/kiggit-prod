@@ -1,0 +1,1 @@
+ALTER TABLE user ADD fb_access_token text;

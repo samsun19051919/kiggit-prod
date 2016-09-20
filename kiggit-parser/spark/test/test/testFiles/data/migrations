@@ -1,0 +1,17 @@
+20160518134559,2016-05-20 07:31:01+0000,add_column_betslipid_to_table_matchhasuserpredictions.js
+20160402173140,2016-05-11 11:30:29+0000,add_table_usersearch.cql
+20160408220445,2016-05-11 11:30:29+0000,add_column_updated_to_table_upcomming_matches.cql
+20160520074831,2016-05-20 09:23:11+0000,add_column_result_to_table_results.js
+20160408124938,2016-05-11 11:30:29+0000,add_column_scheduled_start_day_to_match_table.cql
+20160506213343,2016-05-11 11:30:30+0000,add_column_streetname_to_table_user.cql
+20160506194553,2016-05-11 11:30:29+0000,add_column_county_to_table_user.cql
+20160519204823,2016-05-20 07:31:01+0000,create_table_user_transactions_on_betslips.cql
+20160506194554,2016-05-11 11:30:30+0000,add_column_areacode_to_table_user.cql
+20160328200222,2016-05-11 11:30:29+0000,add_user_has_friends_table.cql
+20160506194550,2016-05-11 11:30:29+0000,add_column_securitynumber_to_table_user.cql
+20160506194556,2016-05-11 11:30:30+0000,add_column_streetnumber_to_table_user.cql
+20160402144354,2016-05-11 11:30:29+0000,add_column_invitedby_to_table_userinvitedtobetslip.cql
+20160506194555,2016-05-11 11:30:30+0000,add_column_cityname_to_table_user.cql
+20160325205412,2016-05-11 11:30:29+0000,add_column_fourdigit_to_table_user.cql
+20160510195751,2016-05-11 11:30:30+0000,add_column_dateofbirth_to_table_user.cql
+20160506194557,2016-05-11 11:30:30+0000,add_column_floor_to _table_user.cql

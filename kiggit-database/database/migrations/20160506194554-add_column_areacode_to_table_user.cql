@@ -1,0 +1,1 @@
+ALTER TABLE user ADD area_code text;

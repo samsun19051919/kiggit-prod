@@ -1,0 +1,17 @@
+{
+  "verbose": true,
+  "watch": ["*.js"],
+  "ignore": [
+   "/www/notParsed/*", "/www/parsed/*.1",
+   "/www/parsed/*.2",
+   "/www/parsed/*.3",
+   "/www/parsed/*.4",
+   "/www/parsed/*.5",
+   "/www/parsed/*.6",
+   "/www/parsed/*.7",
+   "/www/parsed/*.8",
+   "/www/parsed/*.9",
+   "/www/parsed/*.0"
+
+]
+}

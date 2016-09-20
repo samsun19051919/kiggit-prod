@@ -1,0 +1,24 @@
+<div class="check-element animate-show" ng-hide="Logedin">
+            <h3>Access denied.</h3>
+            {{Logedin}}
+</div>
+<div class="check-element animate-show" ng-show="Logedin">
+<h2>{{title}}</h2>
+</div>
+<form role="form" name="registerForm" novalidate ng-submit="submit()">
+    <div class="form-group check-element animate-show" ng-show="Logedin"">
+        <label for="email">Email:</label>
+        <input type="email" class="form-control" name="email" ng-model="formData.email" required>
+            <span style="color:#ff0000" ng-show="registerForm.email.$dirty && registerForm.email.$invalid">
+                <span ng-show="registerForm.email.$error.required">Email is required.</span>
+                <span ng-show="registerForm.email.$error.email">Invalid email address.</span>
+            </span>
+    <div class="form-group check-element animate-show" ng-show="Logedin">
+        <label for="pwd">Password:</label>
+            <input type="password" class="form-control" id="pwd" name="password" ng-model="formData.password" required>
+            <span style="color:#ff0000" ng-show="registerForm.password.$dirty && registerForm.password.$invalid">
+                <span ng-show="registerForm.password.$error.required">Password is required.</span>
+            </span>
+    </div>
+    <button type="submit" class="btn btn-sucess" ng-click="registerUser()">Add user</button>
+</form>

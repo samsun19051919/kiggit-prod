@@ -1,0 +1,26 @@
+
+<section class="userspage">
+    <div>
+        <div class="check-element animate-show" ng-show="Logedin">
+            <h3>All users</h3>
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th>Email</th>
+                    <th>Userrights</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="x in Users">
+                    <td>{{ x.email}}</td>
+                    <td>{{ x.userrights}}</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="check-element animate-show" ng-hide="Logedin">
+            <h3>Access denied</h3>
+        </div>
+
+        </div>
+</section>

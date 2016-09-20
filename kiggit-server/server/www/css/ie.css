@@ -1,0 +1,13 @@
+body{min-width:1023px;}
+.panel-nav{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#41444c', endColorstr='#34373d',GradientType=0 );}
+#nav ul a:hover,
+#nav ul .active a{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#48d176', endColorstr='#29a352',GradientType=0 );}
+.open-close .slide{
+	display:block !important;
+	position:static !important;
+}
+.features-block,
+#footer .holder{padding:0 10px;}
+.bottom-block .holder{padding:0 10px 41px;}
+.steps-list .last-child:before{display:none;}
+.promo-block .caption .holder{padding:0;}

@@ -1,0 +1,1 @@
+ALTER TABLE user ADD city_name text;

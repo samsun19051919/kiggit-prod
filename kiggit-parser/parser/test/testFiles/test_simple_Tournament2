@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BetradarBetData>
+    <Timestamp CreatedTime="2016-03-18T15:43:39" TimeZone="Europe/Oslo"/>
+    <Sports>
+        <Sport BetradarSportID="1">
+            <Texts>
+                <Text Language="BET">
+                    <Value>Soccer</Value>
+                </Text>
+                <Text Language="en">
+                    <Value>Soccer</Value>
+                </Text>
+            </Texts>
+            <Category BetradarCategoryID="99">
+                <Texts>
+                    <Text Language="BET">
+                        <Value>China</Value>
+                    </Text>
+                    <Text Language="en">
+                        <Value>China</Value>
+                    </Text>
+                </Texts>
+                <Tournament BetradarTournamentID="53">
+                    <Texts>
+                        <Text Language="BET">
+                            <Value>Tunisia</Value>
+                        </Text>
+                        <Text Language="en">
+                            <Value>Tunisia</Value>
+                        </Text>
+                    </Texts>
+                    <Match BetradarMatchID="9062919">
+                        <Fixture>
+                            <Competitors>
+                                <Texts>
+                                    <Text ID="6134064" SUPERID="749718" Type="1">
+                                        <Text Language="BET">
+                                            <Value>Shenzhen Yuheng</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>Shenzhen Honzuan</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                                <Texts>
+                                    <Text ID="7080619" SUPERID="34695" Type="2">
+                                        <Text Language="BET">
+                                            <Value>Qingdao Jonoon</Value>
+                                        </Text>
+                                        <Text Language="en">
+                                            <Value>Qingdao Jonoon</Value>
+                                        </Text>
+                                    </Text>
+                                </Texts>
+                            </Competitors>
+                            <DateInfo>
+                                <MatchDate>2016-03-20T12:35:00</MatchDate>
+                            </DateInfo>
+                            <StatusInfo>
+                                <Off>0</Off>
+                            </StatusInfo>
+                            <NeutralGround>0</NeutralGround>
+                            <RoundInfo>
+                                <Round>2</Round>
+                            </RoundInfo>
+                        </Fixture>
+                    </Match>
+                </Tournament>
+            </Category>
+        </Sport>
+    </Sports>
+</BetradarBetData>

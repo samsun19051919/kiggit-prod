@@ -1,0 +1,160 @@
+{
+  "jn": {
+    "hosts": [
+      "127.0.0.1"
+    ],
+    "keyspace": "jn_kiggit",
+    "version": "0.4.0",
+    "port": "4000",
+    "environment": "development",
+    "replication": "WITH REPLICATION = {'class': 'SimpleStrategy', 'replication_factor' : 1}",
+    "https": true,
+    "ssl_path": "/Users/jacob/Development/kiggit/kiggit-server/server/cert/localhost/",
+    "fb_graph_api": "https://graph.facebook.com/v2.6/%s/friends?access_token=%s",
+    "fb_pic_url": "http://graph.facebook.com/%s/picture",
+    "emailAuthor": "Kiggit <no-reply@kiggit.com>",
+    "email_user": "no-reply@kiggit.com",
+    "email_pass": "dQ47zjqA",
+    "reset_pass_link": "http://ad.kiggit.com:2222/resetpassword?user_id=",
+    "adyen": {
+      "opts": {
+        "merchantAccount": "KiggitCOM",
+        "development": true,
+        "shopperInteraction": "Ecommerce"
+      },
+      "urls": {
+        "authorise": "https://pal-test.adyen.com/pal/servlet/Payment/v12/authorise",
+        "payout"   : "https://pal-test.adyen.com/pal/servlet/Payout/v12/submit",
+        "retrieve" : "https://pal-test.adyen.com/pal/servlet/Recurring/v12/listRecurringDetails",
+        "disable"  : "https://pal-test.adyen.com/pal/servlet/Recurring/v12/disable"
+      },
+      "auth": {
+        "payment": {
+          "user": "ws@Company.Kiggit",
+          "pass": "Padd7^EF>9X7yMKYHNTg@yUmK"
+        },
+        "payout": {
+          "user": "storePayout_997319@Company.Kiggit",
+          "pass": "j2PR!@e4cYy!SAa3]}1VF!ehM"
+        }
+      },
+      "contract": {
+        "recurring": "ONECLICK",
+        "payment"  : "ONECLICK",
+        "payout"   : "PAYOUT"
+      }
+    },
+    "api_prefix": "/dev/api",
+    "origin": "kiggit-client-app",
+    "log_file": "logs/kiggit.log",
+    "log_level": "debug"
+  },
+  "ci": {
+    "hosts": [
+      "127.0.0.1"
+    ],
+    "keyspace": "kiggit_ci",
+    "app_version": "0.1.0",
+    "port": "4000",
+    "environment": "continous integration",
+    "replication": "WITH REPLICATION = {'class': 'SimpleStrategy', 'replication_factor' : 1}",
+    "https": false,
+    "ssl_path": "/home/ubuntu/kiggit/kiggit-server/server/cert/",
+    "fb_graph_api": "https://graph.facebook.com/v2.0/fql?",
+    "fb_pict_url": "http://graph.facebook.com/%s/picture",
+    "emailAuthor": "Kiggit <no-reply@kiggit.com>",
+    "email_user": "no-reply@kiggit.com",
+    "email_pass": "dQ47zjqA",
+    "reset_pass_link": "http://ad.kiggit.com:2222/resetpassword?user_id=",
+    "adyen": {
+      "opts": {
+        "merchantAccount": "KiggitCOM",
+        "username": "ws@Company.Kiggit",
+        "password": "Padd7^EF>9X7yMKYHNTg@yUmK",
+        "development": true
+      },
+      "urls": {
+        "authorise": "https://pal-test.adyen.com/pal/servlet/Payment/v12/authorise",
+        "payout"   : "https://pal-test.adyen.com/pal/servlet/Payout/v12/submit"
+      },
+      "auth": {
+        "payment": {
+          "user": "ws@Company.Kiggit",
+          "pass": "Padd7^EF>9X7yMKYHNTg@yUmK"
+        },
+        "payout": {
+          "user": "storePayout_997319@Company.Kiggit",
+          "pass": "j2PR!@e4cYy!SAa3]}1VF!ehM"
+        }
+      },
+      "contract": {
+        "recurring": "ONECLICK",
+        "payment"  : "ONECLICK",
+        "payout"   : "PAYOUT"
+      }
+    },
+    "api_prefix": "/ci/api",
+    "origin": "kiggit-client-app",
+    "log_file": "logs/kiggit.log",
+    "log_level": "debug"
+  },
+  "test": {
+    "hosts": [
+      "172.17.0.2"
+    ],
+    "keyspace": "kiggit_test",
+    "app_version": "0.1.0",
+    "port": "4000",
+    "environment": "test",
+    "replication": "WITH REPLICATION = {'class': 'SimpleStrategy', 'replication_factor' : 1}",
+    "https": true,
+    "ssl_path": "/www/cert/test",
+    "fb_graph_api": "https://graph.facebook.com/v2.6/%s/friends?access_token=%s",
+    "fb_pic_url": "http://graph.facebook.com/%s/picture",
+    "emailAuthor": "Kiggit <no-reply@kiggit.com>",
+    "email_user": "no-reply@kiggit.com",
+    "email_pass": "dQ47zjqA",
+    "reset_pass_link": "http://ad.kiggit.com:2222/resetpassword?user_id=",
+    "adyen": {
+      "opts": {
+        "merchantAccount": "KiggitCOM",
+        "development": true,
+        "shopperInteraction": "Ecommerce"
+      },
+      "urls": {
+        "authorise": "https://pal-test.adyen.com/pal/servlet/Payment/v12/authorise",
+        "payout"   : "https://pal-test.adyen.com/pal/servlet/Payout/v12/submit",
+        "retrieve" : "https://pal-test.adyen.com/pal/servlet/Recurring/v12/listRecurringDetails",
+        "disable"  : "https://pal-test.adyen.com/pal/servlet/Recurring/v12/disable"
+      },
+      "auth": {
+        "payment": {
+          "user": "ws@Company.Kiggit",
+          "pass": "Padd7^EF>9X7yMKYHNTg@yUmK"
+        },
+        "payout": {
+          "user": "storePayout_997319@Company.Kiggit",
+          "pass": "j2PR!@e4cYy!SAa3]}1VF!ehM"
+        }
+      },
+      "contract": {
+        "recurring": "ONECLICK",
+        "payment"  : "ONECLICK",
+        "payout"   : "ONECLICK"
+      }
+    },
+    "api_prefix": "/test/api",
+    "origin": "kiggit-client-app",
+    "log_file": "logs/kiggit.log",
+    "log_level": "debug"
+  },
+  "production": {
+    "hosts": [
+      "127.0.0.1"
+    ],
+    "keyspace": "kiggit",
+    "port": "4000",
+    "environment": "production",
+    "replicatioon": " WITH REPLICATION = {'class': 'NetworkTopologyStrategy','eu-west': 2, 'us-east': 2, 'sa-east': 1, 'us-west-1': 1, 'us-west-2': 1, 'ap-northeast': 1, 'ap-southeast-1': 1, 'ap-southeast-2': 1, 'datacenter1': 1}"
+  }
+}

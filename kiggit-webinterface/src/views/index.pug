@@ -1,0 +1,50 @@
+doctype html
+html(lang='en')
+  head
+    title Kiggit: Reset password
+    script(language='javascript', type='text/javascript').
+      function check(input) {
+        if (input.value != document.getElementById('pwd').value) {
+          input.setCustomValidity('Password Must be Matching.');
+        }
+        else {
+          var passw = /.{8,20}$/; 
+          //var passw = /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,20}$/; 
+          if(!(input.value.match(passw))){
+            input.setCustomValidity("The password should be at least 8 characters long");
+          } else {
+            // input is valid -- reset the error message
+            input.setCustomValidity('');
+          }
+        }
+      }
+    |   
+    meta(charset='utf-8')
+    |   
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    |   
+    link(rel='stylesheet', href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css')
+    |   
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js')
+    |   
+    script(src='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js')
+  body
+    .container
+      h2 Reset password
+      |   
+      form(role='form' method='post' enctype="application/x-www-form-urlencoded")
+        .form-group
+          label(for='token') Enter the token you received in the Kiggit app:
+          input#text.form-control(type='text', name='token' placeholder='token')
+        |     
+        .form-group
+          label(for='pwd') Password:
+          |       
+          input#pwd.form-control(type='password', name='password' placeholder='Enter new password')
+        |     
+        .form-group
+          label(for='retypepwd') Retype password:
+          |       
+          input#retypepwd.form-control(type='password', name='confirmPassword' placeholder='Retype new password', oninput='check(this)')
+        |     
+        button.btn.btn-default(type='submit') Submit

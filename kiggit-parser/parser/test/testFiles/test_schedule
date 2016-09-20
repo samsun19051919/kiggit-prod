@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:SportradarData fileName="Soccer.Italy.SerieDGironeF.1516.SerieD1516GironeF.7944362" generatedAt="2016-02-10T14:28:03.125+01:00" serviceId="9" serviceName="schedulesandresult" updateType="delta" xmlns:ns2="http://xmlexport.scoreradar.com/V1">
+    <Sport id="1" name="Soccer">
+        <Category id="31" name="Italy">
+            <Tournament id="29543" name="Serie D, Girone F" stageType="Main stage of tournament" uniqueTournamentId="2330">
+                <Season end="2016-05-29T23:59:00+02:00" id="11364" name="Serie D 15/16" start="2015-09-05T00:00:00+02:00" year="15/16"/>
+                <UniqueTournament description="" name="Serie D" id="2330"/>
+                <Leagues>
+                    <League description="Serie D 15/16, Girone F" end="2016-05-08T23:59:00+02:00" numberofteams="1" presentationId="0" round="0" seasondescription="Main stage of tournament" seasontype="21" start="2015-09-06T00:00:00+02:00" tableId="19186" tournamentid="29543"/>
+                </Leagues>
+                <Matches>
+                    <Match dateOfMatch="2016-02-07T14:30:00+01:00" id="7944362" neutralGround="false">
+                        <Roundinfo round="23"/>
+                        <Teams>
+                            <Team betradarTeamId="6019951" gender="M" name="Isernia" type="1" id="117366">
+                                <Country iso="ITA" id="105" ioc="ITA" name="Italy51"/>
+                            </Team>
+                            <Team betradarTeamId="1184354" gender="M" name="Olympia Agnonese" type="2" id="117374">
+                                <Country iso="ITA" id="105" ioc="ITA" name="Italy"/>
+                            </Team>
+                        </Teams>
+                        <Result canceled="false" postponed="false">
+                            <Score orderById="0" type="FT" value="0:0"/>
+                        </Result>
+                    </Match>
+                </Matches>
+            </Tournament>
+        </Category>
+    </Sport>
+</ns2:SportradarData>
+

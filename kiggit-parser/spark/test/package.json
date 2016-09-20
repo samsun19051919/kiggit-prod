@@ -1,0 +1,25 @@
+{
+  "name": "parser",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "cassandra-driver": "^3.0.1",
+    "co-fs": "^1.2.0",
+    "co-mocha": "^1.1.2",
+    "debug": "~2.2.0",
+    "fs-extra": "^0.26.5",
+    "konfig": "^0.2.1",
+    "line-reader": "^0.4.0",
+    "mocha": "^2.4.5",
+    "node-uuid": "^1.4.7",
+    "sax": "^1.1.5",
+    "should": "^8.2.2",
+    "sleep": "^3.0.1",
+    "underscore": "^1.8.3",
+    "watch": "^0.17.1"
+  }
+}

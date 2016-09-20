@@ -1,0 +1,44 @@
+{
+  "version": "1.0.0-196",
+  "description": "Kiggit Cassandra parser and web socket workers",
+  "author": "Kiggit <contact@kiggit.com> (http://kiggit.com)",
+  "license": "Copyright",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "apn": "1.5.2",
+    "async": "0.7.0",
+    "bcrypt": "^0.8.5",
+    "cassandra-driver": "^3.0.1",
+    "cli-table": "^0.3.1",
+    "email-validator": "^1.0.5",
+    "express": "3.5.2",
+    "fs": "0.0.2",
+    "hashmap": "^2.0.6",
+    "https": "^1.0.0",
+    "konfig": "0.2.0",
+    "node-cassandra-cql": "0.5.0",
+    "node-uuid": "1.4.1",
+    "nodemailer": "0.6.3",
+    "password-generator": "^2.0.2",
+    "path": "^0.12.7",
+    "redis": "0.10.1",
+    "request": "2.34.0",
+    "restify": "^4.1.0",
+    "socket.io": "^1.4.5",
+    "winston": "2.2.0",
+    "winston-daily-rotate-file": "1.2.0",
+    "ws": "0.4.31"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "make unit-concise"
+  },
+  "repository": {
+    "type": "hg",
+    "url": "http://friaminds.dk/hg/kiggit"
+  }
+}

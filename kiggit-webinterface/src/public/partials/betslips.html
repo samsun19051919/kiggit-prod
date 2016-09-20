@@ -1,0 +1,77 @@
+<section class="userspage">
+    <div>
+        <div class="check-element animate-show" ng-show="Logedin">
+            <h3>Betslips</h3>
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th><a href="#/betslips" ng-click="sortType = 'bet_size'; sortReverse = !sortReverse">
+                          betsize
+                          <span ng-show="sortType == 'bet_size' && !sortReverse" class="fa fa-caret-down"></span>
+                          <span ng-show="sortType == 'bet_size' && sortReverse" class="fa fa-caret-up"></span>
+                        </a> 
+                    </th>
+                    <th><a href="#/betslips" ng-click="sortType = 'betslip_type'; sortReverse = !sortReverse">
+                          type
+                          <span ng-show="sortType == 'betslip_type' && !sortReverse" class="fa fa-caret-down"></span>
+                          <span ng-show="sortType == 'betslip_type' && sortReverse" class="fa fa-caret-up"></span>
+                        </a> 
+                    </th>
+                    <th><a href="#/betslips" ng-click="sortType = 'created'; sortReverse = !sortReverse">
+                          created
+                          <span ng-show="sortType == 'created' && !sortReverse" class="fa fa-caret-down"></span>
+                          <span ng-show="sortType == 'created' && sortReverse" class="fa fa-caret-up"></span>
+                        </a> 
+                    </th>
+                    <th><a href="#/betslips" ng-click="sortType = 'settle_time'; sortReverse = !sortReverse">
+                          settle_time
+                          <span ng-show="sortType == 'settle_time' && !sortReverse" class="fa fa-caret-down"></span>
+                          <span ng-show="sortType == 'settle_time' && sortReverse" class="fa fa-caret-up"></span>
+                        </a> 
+                    </th>
+                    <th><a href="#/betslips" ng-click="sortType = 'start_time'; sortReverse = !sortReverse">
+                          start_time
+                          <span ng-show="sortType == 'start_time' && !sortReverse" class="fa fa-caret-down"></span>
+                          <span ng-show="sortType == 'start_time' && sortReverse" class="fa fa-caret-up"></span>
+                        </a> 
+                    </th>
+                    <th><a href="#/betslips" ng-click="sortType = 'status'; sortReverse = !sortReverse">
+                          status
+                          <span ng-show="sortType == 'status' && !sortReverse" class="fa fa-caret-down"></span>
+                          <span ng-show="sortType == 'status' && sortReverse" class="fa fa-caret-up"></span>
+                        </a> 
+                    </th>
+                    <th><a href="#/betslips" ng-click="sortType = 'betslip_id'; sortReverse = !sortReverse">
+                          betslip_id
+                          <span ng-show="sortType == 'betslip_id' && !sortReverse" class="fa fa-caret-down"></span>
+                          <span ng-show="sortType == 'betslip_id' && sortReverse" class="fa fa-caret-up"></span>
+                        </a> 
+                    </th>
+                    <th><a href="#/betslips" ng-click="sortType = 'creator'; sortReverse = !sortReverse">
+                          creator
+                          <span ng-show="sortType == 'creator' && !sortReverse" class="fa fa-caret-down"></span>
+                          <span ng-show="sortType == 'creator' && sortReverse" class="fa fa-caret-up"></span>
+                        </a> 
+                    </th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="x in betslips | orderBy:sortType:sortReverse ">
+                    <td>{{ x.bet_size }}</td>
+                    <td>{{ x.betslip_type }}</td>
+                    <td>{{ x.created }}</td>
+                    <td>{{ x.settle_time }}</td>
+                    <td>{{ x.start_time }}</td>
+                    <td>{{ x.status }}</td>
+                    <td>{{ x.betslip_id }}</td>
+                    <td>{{ x.creator }}</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="check-element animate-show" ng-hide="Logedin">
+            <h3>Access denied</h3>
+        </div>
+
+        </div>
+</section>

@@ -1,0 +1,4 @@
+##### UPGRADING NODE ##########################################################
+Whenever you upgrade node, make sure you rebuild all NPMs, so that you don't
+keep old native libraries (such as hiredis), which were built for the previous
+version of node. Failing to do so may result in very strange behavior!

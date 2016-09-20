@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="41462" generatedAt="2016-03-08T20:18:20 CET" generatedFor="5554" type="delta">
+<Sport BetradarSportId="1">
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="122">
+<Name language="en">Germany Amateur</Name>
+<Tournament BetradarTournamentId="21299" UniqueTournamentId="1085">
+<Name language="en">Regionalliga Bavaria</Name>
+<Match BetradarMatchId="10523677" Id="9044679">
+<MatchDate>2016-03-08T19:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="5788066" UniqueTeamId="23946">
+<Name language="en">FC Ingolstadt 04 II</Name>
+</Team1>
+<Team2 BetradarTeamId="7432685" UniqueTeamId="75149">
+<Name language="en">FC Amberg</Name>
+</Team2>
+<Status Code="31">
+<Name language="en">Halftime</Name>
+</Status>
+<Winner>0</Winner>
+<CurrentPeriodStart>2016-03-08T20:18:18 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Venue>
+<Country id="80" name="Germany">
+<Name language="en">Germany</Name>
+</Country>
+<City id="65" name="Ingolstadt">
+<Name language="en">Ingolstadt</Name>
+</City>
+<Stadium id="1092" name="Tuja-Stadion">
+<Name language="en">Tuja-Stadion</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>
+
+

@@ -1,0 +1,29 @@
+Info on migrations.
+
+To create a migration (some kind of change in db) you need to
+run ./create-migration.sh <FILE_NAME>
+
+This will create a file in the migration folder which you can edit
+to suit your needs.
+
+
+Then run
+
+./list-migrations.sh <CONFIG_PROFILE> e.g. ./list-migrations.sh test
+
+to assure that your migration is pending for appliance to db. All
+migrations that are not applied is marked 'No'.
+
+
+Run
+
+./apply-migrations <CONFIG_PROFILE> e.g. ./apply-migrations.sh test
+
+to apply changes to the database.
+
+
+Finally run
+
+./list-migrations.sh <CONFIG_PROFILE> e.g. ./list-migrations.sh test
+
+to check if all expected migrations is marked 'Yes'.

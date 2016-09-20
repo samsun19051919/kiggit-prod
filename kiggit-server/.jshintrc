@@ -1,0 +1,114 @@
+// Details: https://github.com/victorporof/Sublime-JSHint#using-your-own-jshintrc-options
+// Example: https://github.com/jshint/jshint/blob/master/examples/.jshintrc
+// Documentation: http://www.jshint.com/docs/
+// There are many more options than those here - see http://www.jshint.com/docs/options/
+
+{    
+    // Define globals exposed by browsers (document, navigator, FileReader, ...)
+    "browser": false,
+    
+    // Some non-standard but widely adopted globals such as escape and unescape
+    "nonstandard": false,
+    
+    // Define globals exposed by CouchDB
+    "couch": false,
+    
+    // Define globals typically used for development (console, alert, ...)
+    "devel": true,
+    
+    // Define globals exposed by Node.js
+    "node": true,
+    
+    // Some more framework-specific:
+    "dojo": false,
+    "jquery": false,
+    "mootools": false,
+    "phantom": false,
+    "prototypejs": false,
+    "rhino": false,
+    "worker": false,
+    "wsh": false,
+    "yui": false,
+    
+    // Prohibit arguments.caller and arguments.callee (deprecated, and prohibited in strict mode):
+    "noarg": true,
+    
+    // Whether we're using ECMAScript 6 syntax:
+    "esnext": false,
+    
+    // Force camelCasedVariables or UPPER_CASED_AND_UNDERSCORED_CONSTANTS:
+    "camelcase": true,
+    
+    // Force capitalization of constructor names:
+    "newcap": true,
+    
+    // Force curlybraced blocks:
+    "curly": false,
+    
+    // Prohibit unary incrementors and decrementors:
+    "plusplus": false,
+    
+    // Prohibit coercive comparators:
+    "eqeqeq": true,
+    
+    // Force filtering of object properties in for...in loops:
+    "forin": true,
+    
+    // Prohibit overwriting prototypes on native objects:
+    "freeze": false,
+    
+    // Prohibit the creation of objects using new but without assigning the object to a variable:
+    "nonew": false,
+    
+    // Force the use of a specific indentation size:
+    "indent": 4,
+    
+    // Suppress warnings about using expressions where assignment or function calls are expected.
+    // a && b.push(a) would trigger a warning, as would statements like should's "res.should.be.json;":
+    "expr": true,
+/*    
+    // Accept these other user-defined "globals":
+    "globals": {
+        // mocha/should in node.js:
+        "describe": true,
+        "beforeEach": true,
+        "it": true
+    },
+*/
+    // Force ECMAScript 5 strict mode (prohibits globalscript, as it might break third-party code)
+    "strict": true,
+    
+    // Suppress warnings when using global strict mode:
+    "globalstrict": false,
+    
+    // Allow the use of eval() (sane to do so if using strict mode, or just a gutsy cowboy)
+    "evil": false,
+    
+    // Don't allow empty code blocks (cosmetic):
+    "noempty": true,
+    
+    // Prohibit the use of bitwise operators (^, |, &, ...), if we don't understand them and thus are typos for &&, ||:
+    "bitwise": false,
+    
+    // Bitch if not using just one type of quotation marks everywhere in your code:
+    "quotmark": false,
+    
+    // Don't complain about mixing tabs and spaces:
+    "smarttabs": false,
+    
+    // Don't warn when accessing with [] notation if you could've used dot notation:
+    "sub": true,
+    
+    // Complain about trailing whitespace:
+    "trailing": true,
+    
+    // Allow multiline strings. It is safe with jshint as accidentally escaping whitespace at EOL is warned about,
+    // but still not necessarily very useful, as you'll just be formatting your code anyway to do editor linebreaks.
+    "multistr": false,
+    
+    // Don't allow explicitly undeclared variables:
+    "undef": true,
+    
+    // Bitch about declared variables that aren't used:
+    "unused": true
+}

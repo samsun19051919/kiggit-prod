@@ -1,0 +1,18 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #00B7FF;
+}
+.grid {
+    padding: 10px;
+    height:85vh
+    }
+.grid .ui-grid-row .grey {
+  opacity: 0.55;
+  filter: alpha(opacity = 60);
+}
+
+.grid .ui-grid-row .pink {
+  background-color: pink;
+}

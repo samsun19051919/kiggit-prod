@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:SportradarData fileName="Soccer.KAISERSLAUTERNAMATEURE.2537" generatedAt="2016-02-27T18:44:07.557+01:00" serviceId="16" serviceName="squad" updateType="periodic" xmlns:ns2="http://xmlexport.scoreradar.com/V1">
+    <Sport id="1" name="Soccer">
+        <Category id="30" name="Germany"/>
+        <Category id="122" name="Germany Amateur"/>
+        <Category id="393" name="International Clubs"/>
+        <Teams>
+            <Team gender="M" name="FC Kaiserslautern II" id="2537">
+                <Managers>
+                    <Manager name="Oliver Schafer" playerId="87572"/>
+                </Managers>
+                <Players>
+                    <Player playerName="Christian Lensch" playerID="142392">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Christian Lensch"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Christian"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Lensch"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="M"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="62"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="171"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1992-08-21"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Right"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Marius Muller" playerID="136933">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Marius Muller"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Marius"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Muller"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="G"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="84"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="192"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1993-07-12"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Right"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Mario Pokar" playerID="44313">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Mario Pokar"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Mario"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Pokar"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="M"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="79"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="183"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1990-01-18"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Left"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Jan Lucas Dorow" playerID="136932">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Jan Lucas Dorow"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Jan Lucas"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Dorow"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="F"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="67"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="174"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1993-04-26"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Right"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Sebastian Jacob" playerID="169049">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Sebastian Jacob"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Sebastian"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Jacob"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="F"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="73"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="183"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1993-06-26"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Right"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Michael Schindele" playerID="172011">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Michael Schindele"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Michael"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Schindele"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="D"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="85"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="190"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1994-01-27"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Left"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Julian Pollersbeck" playerID="271017">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Julian Pollersbeck"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Julian"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Pollersbeck"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="G"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="85"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="195"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1994-08-16"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Right"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Raphael Sallinger" playerID="275801">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Raphael Sallinger"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Raphael"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Sallinger"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="G"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="196"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1995-12-08"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="AUT"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Jan-Ole Sievers" playerID="544630">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Jan-Ole Sievers"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Jan-Ole"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Sievers"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="G"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1995-02-16"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Maurice Deville" playerID="87287">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Maurice John Deville"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Maurice John"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Deville"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="F"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="83"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="194"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1992-07-31"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Right"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="LUX"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Johannes Reichert" playerID="110496">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Johannes Reichert"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Johannes"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Reichert"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="D"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="181"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1991-07-02"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Both"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Fabian Scheffer" playerID="164961">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Fabian Scheffer"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Fabian"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Scheffer"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="D"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="70"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="173"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1993-02-01"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Both"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Irvin Raul Parra" playerID="247277">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Irvin Raul Parra"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Irvin Raul"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Parra"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="M"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="82"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="182"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1993-08-18"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Right"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="USA"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Dino Bajric" playerID="253653">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Dino Bajric"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Dino"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Bajric"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="M"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="184"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1995-07-12"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="BIH"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Michael Schultz" playerID="152203">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Michael Schultz"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Michael"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Schultz"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="D"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="84"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="189"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1993-05-30"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Bernard Kyere" playerID="573550">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Bernard Kyere"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Bernard"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Kyere"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="D"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1995-07-01"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="GHA"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Johannes Hofmann" playerID="573546">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Johannes Hofmann"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Johannes"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Hofmann"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="M"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1995-03-12"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Florian Weber" playerID="582212">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Florian Weber"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Florian"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Weber"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="F"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1992-08-16"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Tim Heubach" playerID="40429">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Tim Heubach"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Tim"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Heubach"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="D"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="82"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="192"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1988-05-12"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Left"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Andre Fomitschow" playerID="90096">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Andre Fomitschow"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Andre"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Fomitschow"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="D"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="74"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="180"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1990-09-07"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Left"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Kevin Urban" playerID="574526">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Kevin Urban"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Kevin"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Urban"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="G"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1996-07-16"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Yannick Nonnweiler" playerID="169161">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Yannick Nonnweiler"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Yannick"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Nonnweiler"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="F"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="187"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1994-08-23"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Both"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Christoph Becker" playerID="229860">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Christoph Becker"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Christoph"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Becker"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="D"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="184"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1994-08-05"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Mateusz Klich" playerID="44900">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Mateusz Klich"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Mateusz"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Klich"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="M"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="75"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="183"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1990-06-13"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Right"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="POL"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Robert Glatzel" playerID="168987">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Robert Glatzel"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Robert"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Glatzel"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="F"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="80"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="193"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1994-01-08"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Both"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Tino Schmidt" playerID="218620">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Tino Schmidt"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Tino"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Schmidt"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="F"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="66"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="174"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1993-10-02"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Both"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Marius Grosch" playerID="227586">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Marius Grosch"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Marius"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Grosch"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="D"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="78"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="189"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1994-03-07"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Both"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Robin Koch" playerID="581302">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Robin Koch"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Robin"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Koch"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="D"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1996-07-17"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Erik Wekesser" playerID="753046">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Erik Wekesser"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Erik"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Wekesser"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="F"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="81"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="180"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1997-07-03"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Left"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Nils Seufert" playerID="753036">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Nils Seufert"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Nils"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Seufert"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="M"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1997-02-03"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Leon Bell Bell" playerID="573538">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Leon Bell Bell"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Leon"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Bell Bell"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="F"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1996-09-06"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Antonio Mirko Colak" playerID="142395">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Antonio Mirko Colak"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Antonio Mirko"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Colak"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="F"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="73"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="187"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1993-09-17"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Both"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="HRV"/>
+                        </PlayerInfo>
+                        <Roles>
+                            <Role active="true" id="1267492" start="2015-08-04">
+                                <RoleType id="8" name="On loan"/>
+                                <Team gender="M" name="FC Kaiserslautern II" id="2537"/>
+                            </Role>
+                        </Roles>
+                    </Player>
+                    <Player playerName="Tim Philip Oschmann" playerID="184629">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Tim Philip Oschmann"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Tim Philip"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Oschmann"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="M"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="176"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1994-06-08"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Both"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Marcus Piossek" playerID="26784">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Marcus Piossek"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Marcus"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Piossek"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="M"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="70"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="178"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1989-07-21"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Both"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="POL"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Manfred Osei-Kwadwo" playerID="223938">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Shirt number" typeId="1" value="11"/>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Manfred Osei-Kwadwo"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Manfred"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Osei-Kwadwo"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="M"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="68"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="171"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1995-05-30"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Right"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="GHA"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Lukas Gortler" playerID="174243">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Shirt number" typeId="1" value="14"/>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Lukas Gortler"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Lukas"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Gortler"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="F"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="75"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="183"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1994-06-15"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Left"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Lukas Hartlieb" playerID="222788">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Shirt number" typeId="1" value="16"/>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Lukas Hartlieb"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Lukas"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Hartlieb"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="D"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1996-05-04"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                    <Player playerName="Sascha Mockenhaupt" playerID="250425">
+                        <PlayerInfo>
+                            <PlayerInfoEntry name="Shirt number" typeId="1" value="28"/>
+                            <PlayerInfoEntry name="Full name" typeId="2" value="Sascha Mockenhaupt"/>
+                            <PlayerInfoEntry name="First name" typeId="8" value="Sascha"/>
+                            <PlayerInfoEntry name="Last name" typeId="9" value="Mockenhaupt"/>
+                            <PlayerInfoEntry name="Position" typeId="3" value="D"/>
+                            <PlayerInfoEntry name="Weight" typeId="4" value="80"/>
+                            <PlayerInfoEntry name="Height" typeId="5" value="185"/>
+                            <PlayerInfoEntry name="Date of birth" typeId="6" value="1991-09-10"/>
+                            <PlayerInfoEntry name="Preferred foot" typeId="10" value="Right"/>
+                            <PlayerInfoEntry name="Nationality" typeId="7" value="DEU"/>
+                        </PlayerInfo>
+                    </Player>
+                </Players>
+            </Team>
+        </Teams>
+    </Sport>
+</ns2:SportradarData>

@@ -1,0 +1,13 @@
+
+<h1>{{title}}</h1>
+<div class="check-element animate-show" ng-hide="Logedin">
+            <h3>Access denied.</h3>
+</div>
+<div class="check-element animate-show" ng-show="Logedin">
+   <div class="row-fluid">
+     <div class="span12">
+       <div class="grid" ui-grid="gridOptions" ui-grid-edit ui-grid-row-edit ui-grid-cellNav></div>
+       </div>
+     </div>
+   </div>
+</div>

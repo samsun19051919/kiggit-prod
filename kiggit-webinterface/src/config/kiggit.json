@@ -1,0 +1,32 @@
+{
+ "test": {
+    "hosts": ["cassandraDB"],
+    "serverUrl": "https://kiggit-server:4000/test/api",
+    "kiggitUserId": "11111111-1111-1111-1111-111111111111",
+    "keyspace": "kiggit_test",
+    "app_version": "0.1.0",
+    "port": "4000",
+    "environment": "test",
+    "replication": "WITH REPLICATION = {'class': 'SimpleStrategy', 'replication_factor' : 1}",
+    "secret": "lkjdfo832q94riu0qwjd02j0j34209fd094fj84tr75tfyesai"
+  },
+  "testproduction": {
+    "hosts": ["52.58.178.207"],
+    "forgot_password_url": "",
+    "keyspace": "kiggit_testproduction",
+    "port": "4000",
+    "environment": "production",
+    "replication": "WITH REPLICATION = {'class': 'NetworkTopologyStrategy','dc1': 2}",
+    "secret": "lkjdfo832q94riu0qwjd02j0j34209fd094fj84tr75tfyesai"
+  },
+  "production": {
+    "hosts": ["127.0.0.1"],
+    "serverUrl": "https://kiggit-server:4000/test/api",
+    "kiggitUserId": "11111111-1111-1111-1111-111111111111",
+    "keyspace": "kiggit",
+    "port": "4000",
+    "environment": "production",
+    "replicatioon": " WITH REPLICATION = {'class': 'NetworkTopologyStrategy','eu-west': 2, 'us-east': 2, 'sa-east': 1, 'us-west-1': 1, 'us-west-2': 1, 'ap-northeast': 1, 'ap-southeast-1': 1, 'ap-southeast-2': 1, 'datacenter1': 1}",
+    "secret": "lkjdfo832q94riu0qwjd02j0j34209fd094fj84tr75tfyesai"
+  }
+}
